@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Frontend & WordPress Developer from Egypt</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" style="max-width: 90%; height: auto;" alt="Coding Animation" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding Animation" />
 </p>
 
 ---
