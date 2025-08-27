@@ -4,6 +4,7 @@
 <p align="center">
   <img class="coding-gif" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding Animation" />
 </p>
+
 ---
 
 ### 👨‍💻 About Me:
