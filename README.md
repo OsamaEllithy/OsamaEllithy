@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Frontend & WordPress Developer from Egypt</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding Animation" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" style="max-width: 90%; height: auto;" alt="Coding Animation" />
 </p>
 
 ---
@@ -39,6 +39,6 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourgithub&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithub&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OsamaEllithy&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsamaEllithy&layout=compact&theme=radical" />
 </p>
