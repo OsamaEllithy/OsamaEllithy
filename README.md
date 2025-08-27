@@ -2,7 +2,25 @@
 <h3 align="center">A Passionate Frontend & WordPress Developer from Egypt</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding Animation" />
+  <img class="coding-gif" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding Animation" />
+
+<style>
+.coding-gif {
+    max-width: 400px;
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+/* إخفاء الصورة في الشاشات الصغيرة */
+@media (max-width: 768px) {
+    .coding-gif {
+        display: none;
+    }
+}
+</style>
+
 </p>
 
 ---
