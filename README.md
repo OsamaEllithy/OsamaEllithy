@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Osama Abdelnaser</h1>
-<h3 align="center">A Passionate Frontend & WordPress Developer from Egypt</h3>
+<h3 align="center">A Passionate Full-Stack Developer & WordPress Specialist from Egypt</h3>
 
 <p align="center">
   <img class="coding-gif" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding Animation" />
@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me:
 - 🔭 I’m currently working on **Web Development & WordPress Projects**
-- 🌱 I’m learning **React, Next.js, and Advanced UI/UX**
+- 🌱 I’m learning **React and Advanced UI/UX**
 - 💬 Ask me about **Frontend Development, WordPress, SEO & UI Design**
 - 📫 How to reach me: **osama.abdelnaser.dev@gmail.com**
 
