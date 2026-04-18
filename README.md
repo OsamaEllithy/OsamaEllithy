@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Osama Abdelnaser</h1>
-<h3 align="center">A Passionate Full-Stack Developer & WordPress Specialist from Egypt</h3>
+<h3 align="center">A Passionate Full-Stack Developer & CMS Specialist from Egypt</h3>
 
 <p align="center">
   <img class="coding-gif" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding Animation" />
