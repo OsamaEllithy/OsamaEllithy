@@ -1,117 +1,88 @@
+<!-- البانر العلوي المتحرك - سريع ومضمون -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=auto&height=220&section=header&text=Osama%20Abdelnaser&fontSize=45&animation=fadeIn&theme=tokyonight" width="100%" alt="Header Banner" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWNjcmNjd2x4Y2pxdHlsdHpwdnB5dW95cDg0OHg0dWZ4N2V4cm84ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3p50WGyUqiU5W/giphy.gif" width="100%" height="150" style="object-fit: cover;" />
   
-  <br/>
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;WordPress+%26+CMS+Specialist+%F0%9F%94%B7;Frontend+%26+UI%2FUX+Enthusiast+%F0%9F%8E%A8;Always+Learning%2C+Always+Building+%E2%9A%A1" alt="Typing SVG" />
+  <br/><br/>
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/Welcome%20To%20My%20Digital%20Space-6366F1?style=for-the-badge&logo=github&logoColor=white" />
-  </p>
+  <!-- تايبينج متحرك لاسمك وتخصصك -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Osama+Abdelnaser+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Full-Stack+Developer+%F0%9F%9A%80;WordPress+%26+E-Commerce+Specialist+%F0%9F%9B%AC;Salla%2C+Zid+%26+Lak+Expert+%F0%9F%20%B5" />
 </div>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z5cXN5dms3bm9pYXY0bHBsN3g4Y294cTZpY2g4azZ0OHZndW9pdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" height="2px" />
-</p>
+---
 
+<!-- قسم معلومات عني -->
 ## 🧑‍💻 About Me
 
-<table align="center" border="0" cellpadding="10">
-  <tr>
-    <td width="55%" valign="top">
-      <p>👋 Hi there! I'm <b>Osama Abdelnaser</b>, a passionate developer based in Egypt 🇪🇬.</p>
-      <p>🎯 <b>Role:</b> Full-Stack Developer & CMS Specialist</p>
-      <p>🎨 <b>Focus:</b> Web Development · WordPress · UI/UX · SEO</p>
-      <p>🚀 <b>Learning:</b> React.js · Advanced UI/UX · Modern Frontend Stacks</p>
-    </td>
-    <td width="45%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsamaEllithy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=6366f1&text_color=a0a0a0&langs_count=6" width="100%" />
-    </td>
-  </tr>
-</table>
+- 🎯 **Current Role:** Full-Stack Developer & E-Commerce / CMS Specialist
+- 📍 **Location:** Egypt 🇪🇬
+- 🎨 **Specialization:** Web Development · WordPress · E-Commerce Customization (Salla, Zid, Lak) · UI/UX
+- 🚀 **Currently Learning:** React.js · Advanced UI/UX · Modern Frontend Stacks
+- 📬 **Reach Me At:** osama.abdelnaser.dev@gmail.com
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z5cXN5dms3bm9pYXY0bHBsN3g4Y294cTZpY2g4azZ0OHZndW9pdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" height="2px" />
-</p>
+---
 
+<!-- قسم التقنيات بلوجوهات واضحة ومضمونة 100% -->
 ## 🛠️ Tech Stack
 
 <div align="center">
 
 ### 🌐 Frontend Development
 <br/>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="42" />&nbsp;
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="42" />&nbsp;
-<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" height="42" />&nbsp;
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="42" />&nbsp;
-<img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" height="42" />&nbsp;
-<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" height="42" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="42" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="42" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="42" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="42" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="42" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="42" />
 
-<br/>
+<br/><br/>
 
-### ⚙️ Backend & CMS Specialist
+### 🛒 CMS & E-Commerce Platforms
 <br/>
-<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" height="42" />&nbsp;
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" height="42" />&nbsp;
-<img src="https://img.shields.io/badge/Wordpress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white" height="42" />&nbsp;
-<img src="https://img.shields.io/badge/Elementor-%2392003B.svg?style=for-the-badge&logo=elementor&logoColor=white" height="42" />
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" height="42" />
+<img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" height="42" />
+<img src="https://img.shields.io/badge/Salla-00B4A0?style=for-the-badge&logo=shopify&logoColor=white" height="42" /> 
+<img src="https://img.shields.io/badge/Zid-7F54B3?style=for-the-badge&logo=quickbooks&logoColor=white" height="42" />
+<img src="https://img.shields.io/badge/Lak_Platform-FF5A5F?style=for-the-badge&logo=rocket&logoColor=white" height="42" />
 
-<br/>
+<br/><br/>
 
 ### 🧰 Tools & Design
 <br/>
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="42" />&nbsp;
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="42" />&nbsp;
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" height="42" />&nbsp;
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="42" />
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" height="42" />
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="42" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="42" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="42" />
 
-</div>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z5cXN5dms3bm9pYXY0bHBsN3g4Y294cTZpY2g4azZ0OHZndW9pdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIvyvy/giphy.gif" width="100%" height="2px" />
-</p>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <table border="0" cellpadding="5">
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=OsamaEllithy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=6366f1&icon_color=14b8a6&text_color=a0a0a0&ring_color=6366f1" width="100%" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=OsamaEllithy&theme=tokyonight&hide_border=true&background=0d0d0d&ring=6366f1&fire=14b8a6&currStreakLabel=6366f1&sideLabels=a0a0a0&dates=555555&stroke=1f1f1f&currStreakNum=ffffff&sideNums=ffffff" width="100%" />
-      </td>
-    </tr>
-  </table>
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OsamaEllithy&theme=tokyonight&no-bg=true&margin-w=15" alt="Osama's Trophies" />
-</div>
-
----
-
+<!-- جراف المساهمات الرسمي من جيت هاب - شغال ومستحيل يبوظ -->
 ## 📈 Contribution Graph
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OsamaEllithy&theme=tokyonight&bg_color=0d0d0d&hide_border=true&color=6366f1" width="100%" />
+  <img src="https://ghchart.rshah.org/6366F1/OsamaEllithy" alt="Osama's GitHub Contributions Chart" width="100%" />
 </div>
 
 ---
 
+<!-- قسم التواصل والأنيميشن السفلي -->
 ## 📩 Connect With Me
 
 <div align="center">
   <a href="mailto:osama.abdelnaser.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-osama.abdelnaser.dev%40gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" />
-  </a>&nbsp;
+    <img src="https://img.shields.io/badge/Email-osama.abdelnaser.dev%40gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" height="44" />
+  </a>
   <a href="https://github.com/OsamaEllithy">
-    <img src="https://img.shields.io/badge/GitHub-OsamaEllithy-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-OsamaEllithy-181717?style=for-the-badge&logo=GitHub&logoColor=white" height="44" />
   </a>
 
   <br/><br/>
-  <b>— Built with 🖤 from Egypt 🇪🇬 —</b>
+  
+  <!-- أنيميشن متحرك شغال 100% -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHg3b3A0M3N5cmh5Y2R4OG95b2RxeXg0eW00b3Bvcmh5ZnA2NmNxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZgTR39vUDpAh76JeKU/giphy.gif" width="150" />
+  
+  <br/><br/>
+  <b>— Built with Love —</b>
 </div>
