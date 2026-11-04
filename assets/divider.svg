@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 12" width="1000" height="12" role="img" aria-label="Animated divider">
+  <title>Animated divider</title>
+  <defs>
+    <linearGradient id="base" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0"    stop-color="#22D3EE" stop-opacity="0"/>
+      <stop offset="0.25" stop-color="#22D3EE" stop-opacity="0.55"/>
+      <stop offset="0.5"  stop-color="#A855F7" stop-opacity="0.75"/>
+      <stop offset="0.75" stop-color="#60A5FA" stop-opacity="0.55"/>
+      <stop offset="1"    stop-color="#60A5FA" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="spark" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0"   stop-color="#E0F7FF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#E0F7FF" stop-opacity="0.95"/>
+      <stop offset="1"   stop-color="#E0F7FF" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="b" x="-50%" y="-200%" width="200%" height="500%">
+      <feGaussianBlur stdDeviation="1.6"/>
+    </filter>
+  </defs>
+  <style>
+    @keyframes run { 0% { transform: translateX(-240px) } 100% { transform: translateX(1000px) } }
+    .spark { animation: run 4.2s cubic-bezier(.4,0,.6,1) infinite; }
+    @keyframes pulse { 0%,100% { opacity: .55 } 50% { opacity: 1 } }
+    .base { animation: pulse 5s ease-in-out infinite; }
+    @media (prefers-reduced-motion: reduce) { .spark, .base { animation: none } }
+  </style>
+  <rect class="base" x="0" y="5" width="1000" height="2" rx="1" fill="url(#base)"/>
+  <rect class="spark" x="0" y="4" width="240" height="4" rx="2" fill="url(#spark)" filter="url(#b)"/>
+</svg>
